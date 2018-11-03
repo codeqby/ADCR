@@ -6,7 +6,7 @@ Automatic Detonator Code Recognition via Deep Neural Network.
  
  Data is avaiable in the followings:
  [Google Drive](https://github.com/wujixiu/ADCR)
- [Baidu Yun](https://github.com/wujixiu/ADCR)
- 
+ [Baidu Yun](https://pan.baidu.com/s/1BJtfanaMbVu7g3pavMaSxQ)(pwd:n3k4)
+
  ## Qualitative Results
  
