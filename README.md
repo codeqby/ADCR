@@ -10,4 +10,4 @@ Automatic Detonator Code Recognition via Deep Neural Network.
  ![results](1.png)
  ![results](2.png)
  ![results](3.png)
- ![results](4.png)
+ ![results](5.png)
