@@ -9,4 +9,4 @@ Automatic Detonator Code Recognition via Deep Neural Network.
  [Baidu Yun](https://pan.baidu.com/s/1BJtfanaMbVu7g3pavMaSxQ)(pwd:n3k4)
 
  ## Qualitative Results
- 
+ ![results](1.png)
